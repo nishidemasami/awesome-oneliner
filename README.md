@@ -1,0 +1,2 @@
+# awesome-oneliner
+アウェサムなワンライナー

@@ -1,0 +1,1 @@
+echo 'fn main(){println!("Hello, world!");}'|rustc -&&./rust_out
